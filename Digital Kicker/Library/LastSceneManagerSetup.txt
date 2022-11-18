@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/KickerFinalbeforefolder.unity
+  isLoaded: 1
+  isActive: 1
